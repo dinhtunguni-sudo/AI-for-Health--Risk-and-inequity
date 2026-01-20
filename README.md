@@ -1,9 +1,11 @@
 # AI-for-Health--Risk-and-inequity
-Applied machine learning for population health and health service coverage using open data
+Applied machine learning for population health and health service coverage using open data.
 
-Access to essential health services remains uneven across countries and over time. Despite global efforts toward Universal Health Coverage (UHC), many settings continue to experience persistently low service coverage, often driven by structural and socioeconomic constraints.
+Access to essential health services remains uneven across countries and over time. Despite global efforts toward Universal Health Coverage (UHC), many settings continue to experience persistently low service coverage, often shaped by structural and socioeconomic constraints.
 
-This project explores how applied machine learning, using open, population-level data, can support public health analysis by identifying country-year settings at higher risk of low health service coverage. The focus is not on algorithmic novelty, but on responsible, interpretable, and equity-aware use of ML to complement traditional public health surveillance and planning.
+This project explores how applied machine learning, using open population-level data, can support public health analysis by identifying country–year settings at higher risk of low health service coverage. The emphasis is on responsible, interpretable, and equity-aware use of ML to complement traditional public health surveillance and planning, rather than on algorithmic novelty.
+
+*Note:* This repository primarily documents the methodological framing and planned analyses. Executable workflows and empirical results will be developed in subsequent work.
 
 **Research Objectives**
 
